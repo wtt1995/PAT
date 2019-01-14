@@ -115,6 +115,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="PAT0.cpp" />
+    <ClCompile Include="PAT1002 多项式相加.cpp" />
+    <ClCompile Include="PAT1009.cpp" />
+    <ClCompile Include="PATb1010多项式求导cpp.cpp" />
+    <ClCompile Include="PAT1065.cpp" />
+    <ClCompile Include="PATb1041.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

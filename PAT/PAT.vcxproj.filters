@@ -14,4 +14,24 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PAT1065.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1010多项式求导cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1002 多项式相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1009.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1041.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
