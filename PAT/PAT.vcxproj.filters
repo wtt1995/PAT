@@ -33,5 +33,107 @@
     <ClCompile Include="PATb1041.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PATb1028人口普查.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1057Stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1031.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1022.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1037.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1019.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1058.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1006.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1031cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1009.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1014.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1061.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1027.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1073cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PATb1048.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1035.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1077.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1082%28多看看%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1062.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dij路径最短.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Floyed最短路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kruskal图路径最短.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1046shortestdistances.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT图书馆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="背包问题动态规划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩形嵌套问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="因式分解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长不下降子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长公共子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长回文字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

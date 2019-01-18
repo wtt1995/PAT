@@ -115,12 +115,46 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dij路径最短.cpp" />
+    <ClCompile Include="Floyed最短路径.cpp" />
+    <ClCompile Include="kruskal图路径最短.cpp" />
+    <ClCompile Include="PAT1035.cpp" />
+    <ClCompile Include="PAT1019.cpp" />
+    <ClCompile Include="PAT1027.cpp" />
+    <ClCompile Include="PAT1031.cpp" />
+    <ClCompile Include="PAT1046shortestdistances.cpp" />
+    <ClCompile Include="PAT1058.cpp" />
+    <ClCompile Include="PAT1062.cpp" />
+    <ClCompile Include="PAT1073cpp.cpp" />
+    <ClCompile Include="PAT1077.cpp" />
+    <ClCompile Include="PAT1082%28多看看%29.cpp" />
+    <ClCompile Include="PATb1006.cpp" />
+    <ClCompile Include="PATb1009.cpp" />
+    <ClCompile Include="PATb1014.cpp" />
+    <ClCompile Include="PATb1022.cpp" />
+    <ClCompile Include="PATb1031cpp.cpp" />
+    <ClCompile Include="PATb1036.cpp" />
     <ClCompile Include="PAT0.cpp" />
     <ClCompile Include="PAT1002 多项式相加.cpp" />
     <ClCompile Include="PAT1009.cpp" />
+    <ClCompile Include="PAT1036.cpp" />
     <ClCompile Include="PATb1010多项式求导cpp.cpp" />
     <ClCompile Include="PAT1065.cpp" />
+    <ClCompile Include="PAT1061.cpp" />
+    <ClCompile Include="PATb1028人口普查.cpp" />
+    <ClCompile Include="PATb1037.cpp" />
     <ClCompile Include="PATb1041.cpp" />
+    <ClCompile Include="PAT1057Stack.cpp" />
+    <ClCompile Include="PATb1048.cpp" />
+    <ClCompile Include="PAT图书馆.cpp" />
+    <ClCompile Include="动态规划.cpp" />
+    <ClCompile Include="因式分解.cpp" />
+    <ClCompile Include="最长不下降子序列.cpp" />
+    <ClCompile Include="最长公共子序列.cpp" />
+    <ClCompile Include="最长回文字符串.cpp" />
+    <ClCompile Include="矩形嵌套问题.cpp" />
+    <ClCompile Include="背包问题动态规划.cpp" />
+    <ClCompile Include="链表操作.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
