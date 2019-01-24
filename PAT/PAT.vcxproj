@@ -125,6 +125,7 @@
     <ClCompile Include="PAT1027.cpp" />
     <ClCompile Include="PAT1031.cpp" />
     <ClCompile Include="PAT1037.cpp" />
+    <ClCompile Include="PAT1038.cpp" />
     <ClCompile Include="PAT1041.cpp" />
     <ClCompile Include="PAT1046shortestdistances.cpp" />
     <ClCompile Include="PAT1048.cpp" />
@@ -132,11 +133,13 @@
     <ClCompile Include="PAT1055.cpp" />
     <ClCompile Include="PAT1058.cpp" />
     <ClCompile Include="PAT1062.cpp" />
+    <ClCompile Include="PAT1067.cpp" />
     <ClCompile Include="PAT1070.cpp" />
     <ClCompile Include="PAT1073cpp.cpp" />
     <ClCompile Include="PAT1077.cpp" />
     <ClCompile Include="PAT1082%28多看看%29.cpp" />
     <ClCompile Include="PAT1084.cpp" />
+    <ClCompile Include="PAT1085.cpp" />
     <ClCompile Include="PAT1092.cpp" />
     <ClCompile Include="PAT1095.cpp" />
     <ClCompile Include="PATb1006.cpp" />
