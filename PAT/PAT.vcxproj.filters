@@ -159,5 +159,14 @@
     <ClCompile Include="PAT1048.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PAT1070.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1033.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT1037.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

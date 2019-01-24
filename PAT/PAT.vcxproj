@@ -119,10 +119,12 @@
     <ClCompile Include="Floyed最短路径.cpp" />
     <ClCompile Include="kruskal图路径最短.cpp" />
     <ClCompile Include="PAT1028cpp.cpp" />
+    <ClCompile Include="PAT1033.cpp" />
     <ClCompile Include="PAT1035.cpp" />
     <ClCompile Include="PAT1019.cpp" />
     <ClCompile Include="PAT1027.cpp" />
     <ClCompile Include="PAT1031.cpp" />
+    <ClCompile Include="PAT1037.cpp" />
     <ClCompile Include="PAT1041.cpp" />
     <ClCompile Include="PAT1046shortestdistances.cpp" />
     <ClCompile Include="PAT1048.cpp" />
@@ -130,6 +132,7 @@
     <ClCompile Include="PAT1055.cpp" />
     <ClCompile Include="PAT1058.cpp" />
     <ClCompile Include="PAT1062.cpp" />
+    <ClCompile Include="PAT1070.cpp" />
     <ClCompile Include="PAT1073cpp.cpp" />
     <ClCompile Include="PAT1077.cpp" />
     <ClCompile Include="PAT1082%28多看看%29.cpp" />
